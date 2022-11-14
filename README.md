@@ -7,7 +7,7 @@ Eine Übung im SuperCode Bootcamp
 Aufgabenstellung
 
 ```
-n dieser Übung lernen wir, wie man auf die Objekte mit Hilfe von forEach() zugreift.
+In dieser Übung lernen wir, wie man auf die Objekte mit Hilfe von forEach() zugreift.
 Verwende den Code aus dem Kommentarbereich.
 Greife auf die Eigenschaften des Objekts zu und gib folgende Werte mit forEach()
 im HTML aus:
